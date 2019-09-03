@@ -42,6 +42,12 @@ sections:
           amet nec urna.
         image: images/feature3.png
         title: Cool Feature of Your Services
+      - actions:
+          - label: go team
+            url: www.google.com
+        content: what is this
+        image: /images/10.jpg
+        title: test
     section_id: features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
