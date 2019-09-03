@@ -9,8 +9,8 @@ sections:
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
     image: images/hero.png
-    section_id: hero test
-    title: This Is A Big Hero Headline
+    section_id: hero
+    title: This Is A Big Hero Headline by Victor
     type: heroblock
   - bg: gray
     component: FeaturesBlock
